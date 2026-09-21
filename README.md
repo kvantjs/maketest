@@ -1,2 +1,3 @@
 # maketest
-Repositório criado via CoreSpark
+
+Este repositório foi criado automaticamente pelo agente CoreSpark.
